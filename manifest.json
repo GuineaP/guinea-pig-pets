@@ -1,0 +1,54 @@
+{
+  "backup_date": "2026-11-02",
+  "pet_count": 5,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "pets": [
+    {
+      "name": "酸奶（像素版）",
+      "folder": "pets/suannai-pixel",
+      "format_version": 2,
+      "width": 1536,
+      "height": 2288,
+      "sha256": "56772f8a367e23c85883079444be16e958eaa9df786d4d792d92ebf85c995432",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae872612c1881918cc00206cd6bd451"
+    },
+    {
+      "name": "酸奶",
+      "folder": "pets/suannai",
+      "format_version": 2,
+      "width": 1536,
+      "height": 2288,
+      "sha256": "598a0c0df53200f15a9df4855c14231c2ba8de91a3651267546db2eea4a14075",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae87264d67081919530e4949cf07ebd"
+    },
+    {
+      "name": "花蛤蜊（小花）",
+      "folder": "pets/xiaohua",
+      "format_version": 1,
+      "width": 1536,
+      "height": 1872,
+      "sha256": "8e3f578f7566c7a85fe8a7b634a1d83306275a0ba31278c276eb996f5766d7eb",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae8726a1af08191a2b4aa9ca2cef1fd"
+    },
+    {
+      "name": "烤肉",
+      "folder": "pets/kaorou",
+      "format_version": 2,
+      "width": 1536,
+      "height": 2288,
+      "sha256": "cafc013138a37822bc611715be2ba000cc6bb480399962c6a1f861e56ada14e0",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae87270d2948191923c174cbcbf60df"
+    },
+    {
+      "name": "椒麻雞",
+      "folder": "pets/jiaomaji",
+      "format_version": 2,
+      "width": 1536,
+      "height": 2288,
+      "sha256": "1c06bd19f0be10e3b33b8d63e8cd50f1dffad1853abfc2bf3b0a796c030fd387",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae87277405481918fdcceab8b717d3f"
+    }
+  ]
+}
