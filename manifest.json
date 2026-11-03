@@ -1,6 +1,6 @@
 {
   "backup_date": "2026-11-02",
-  "pet_count": 5,
+  "pet_count": 6,
   "cell_width": 192,
   "cell_height": 208,
   "columns": 8,
@@ -49,6 +49,17 @@
       "height": 2288,
       "sha256": "1c06bd19f0be10e3b33b8d63e8cd50f1dffad1853abfc2bf3b0a796c030fd387",
       "adopt_url": "https://chatgpt.com/s/sharepet_6ae87277405481918fdcceab8b717d3f"
+    },
+    {
+      "name": "椒麻雞真實版",
+      "folder": "pets/jiaomaji-real",
+      "format_version": 2,
+      "width": 1536,
+      "height": 2288,
+      "sha256": "317c002876cd443794c3d5f05101415bed2d08519750bea80788f9f4ac4f7390",
+      "adopt_url": "https://chatgpt.com/s/sharepet_6ae9730ed0748191b0a63af96bee59f7",
+      "download": "jiaomaji-real.zip"
     }
-  ]
+  ],
+  "updated_date": "2026-11-03"
 }
